@@ -1,1 +1,0 @@
-npx prettier . --print-width 99999 --write --html-whitespace-sensitivity css

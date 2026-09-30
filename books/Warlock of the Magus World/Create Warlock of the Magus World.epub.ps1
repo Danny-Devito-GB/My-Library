@@ -1,1 +1,0 @@
-& '..\..\scripts\Create EPUB.ps1' -SourceFolder '.' -OutputEpub '.\Warlock of the Magus World.epub'
