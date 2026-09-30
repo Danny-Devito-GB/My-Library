@@ -1,1 +1,1 @@
-npx prettier . --print-width 99999 --write
+bunx prettier . --print-width 99999 --write
